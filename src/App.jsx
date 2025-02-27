@@ -13,7 +13,7 @@ import Ecommerce from './coponents/pages/Ecommerce'
 import Digitalmarketing from './coponents/pages/Digitalmarketing'
 import Wordpress from './coponents/pages/Wordpress'
 import StudentEnrollmentForm from './coponents/pages/StudentEnrollmentForm'
-import RegisterForm from './coponents/pages/Registerform'
+import RegisterForm from './coponents/pages/RegisterForm'
 import User from './coponents/pages/User'
 import EnrolledStudents from './coponents/pages/EnrolledStudents;'
 
